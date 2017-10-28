@@ -1,0 +1,127 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(images/bg7.jpg);
+	background-repeat: cover;
+}
+h1{
+	font-family: billabong;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 100px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+#login{
+	max-width: 340px;
+	margin: 100px auto;
+	margin-top: 0%;
+	background: #f9f9f9;
+	box-shadow: 0 0 10px #aaa;
+}
+#login h3{
+	text-align: center;
+	padding: 25px 10px;
+	background-color: #A9A9A9;
+	color:  #A9A9A9;
+}
+fieldset{
+	margin: 0;
+	border: none;
+}
+form{
+	padding: 0;
+	margin: 0;
+	padding: 15px;
+}
+input[type='text'],
+input[type="email"]{
+	width: 90%;
+	padding: 1em;
+	margin-top: 1.2em;
+	color: #888;
+}
+p{
+	text-align: center;
+	font-size: 25px;
+	margin: 5px 5px;
+}
+input[type='password']{
+	width: 90%;
+	margin-top: 1.25em;
+	padding: 1em;
+}
+input[type="submit"]{
+	width: 100%;
+	padding: 1.4em;
+	margin-top: 1.25em;
+	color:#888;
+	background-color: #4169E1;
+	border: none;
+	color: #eee;
+	text-align: center;
+	border-bottom: 4px solid transparent;
+}
+input[type="submit"]:hover{
+	opacity: 0.8;
+	border-color: #4169E1;
+}
+form p{
+	text-align: center;
+	color:#888;
+	width: 30px;
+	margin: 10px auto 0;
+	background: #f9f9f9;
+	position: relative;
+	bottom: 20px;
+}
+.border-p{
+	border-top:1px solid #888;
+	margin:10px 10px;
+	background-color: #ff8080;
+}
+button{
+	background-color: #4169E1;
+	width:300px;
+	height:50px;
+	padding: 5px;
+	margin: 15px 8px;
+	color: #888;
+	border:none;
+	color: #eee;
+	border-bottom: 3px solid transparent;
+
+}
+button: hover{
+	opacity: 0.9;
+	border-color: #A9A9A9;
+}
+element.style {
+}
+@media (min-width: 736px)
+<style>...</style>
+._ddcu7 {
+	top:2px;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+	margin: center;
+}
+<style>...</style>
+._ddcu7 {
+	display: inline-block;
+	margin-right:8px;
+	position: relative;
+	top:3px;
+}
+<style>...</style>
+.coreSpriteFacebookIconInverted, .coreSpritefbG1yph, .coreSpriteFeedCreation {
+	background-position: -312px -115px;
+}
+#login .kata{
+	text-align: center;
+	margin-top:10px;
+}
